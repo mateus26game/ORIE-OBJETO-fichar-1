@@ -1,7 +1,5 @@
-# ORIE-OBJETO-fixa-2 mateus
-Exercícios de fixação
-Venceu ontem às 23:59
-Instruções
+# ORIE-OBJETO-fixa-2 
+
 1 - As organizações CSM resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calculará os reajustes.  
 
 a. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual;
